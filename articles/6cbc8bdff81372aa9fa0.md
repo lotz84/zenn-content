@@ -264,7 +264,7 @@ instance Monad List where
 
 ＼読んでいただきありがとうございました！／
 この記事が面白かったら いいね♡ をいただけると嬉しいです☺️
-100円からでも サポート¥ をいただければ次の記事を書くため励みになります🙌
+バッジを贈っていただければ次の記事を書くため励みになります🙌
 
 [^1]: "次数付き"という名前は次数付き環に由来しています。
 Fujii, Soichiro, Shin-ya Katsumata, and Paul-André Melliès. "Towards a formal theory of graded monads." International Conference on Foundations of Software Science and Computation Structures. Springer, Berlin, Heidelberg, 2016.
