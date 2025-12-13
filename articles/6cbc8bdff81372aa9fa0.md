@@ -2,7 +2,7 @@
 title: "ベクトルからリストを作る方法 〜次数付きモナドのカン拡張〜"
 emoji: "⛓️"
 type: "tech"
-topics: ["haskell", "圏論", "数学", "math"]
+topics: ["haskell", "math"]
 published: true
 ---
 ![](https://storage.googleapis.com/zenn-user-upload/yxh1k5rs17yjgs1i4ma8rq3ps7ba)
